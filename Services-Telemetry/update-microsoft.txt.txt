@@ -1,0 +1,20 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Microsoft blocked service
+# Total number of network filters: 12
+
+# ------------------------------------[FILTERS]-------------------------------------
+
+# -----------------------------[WINDOWS UPDATE BLOCK]--------------------------------
+
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 download.windowsupdate.com
+0.0.0.0 ntservicepack.microsoft.com
+0.0.0.0 wustat.windows.com
+0.0.0.0 stats.microsoft.com
+0.0.0.0 sls.update.microsoft.com
+0.0.0.0 fe2.update.microsoft.com
+0.0.0.0 au.download.windowsupdate.com
+0.0.0.0 tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 emdl.ws.microsoft.com
