@@ -1,6 +1,6 @@
 # ------------------------------------[UPDATE]--------------------------------------
 # Title: Indonesian Porn Site List
-# Total number of network filters: 8
+# Total number of network filters: 14
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 kingbokep.tv
 0.0.0.0 bokeptoket.com
@@ -12,3 +12,7 @@
 0.0.0.0 ruangbokep.ws
 0.0.0.0 https://kingbokep.tv/
 0.0.0.0 https://dibokepindo.com/
+0.0.0.0 www.sebokep.com
+0.0.0.0 ngentub.cc
+0.0.0.0 javsubindo.com
+0.0.0.0 pornhat.tv
