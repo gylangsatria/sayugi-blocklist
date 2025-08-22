@@ -1,4 +1,4 @@
-# adguard-blocklist
+# sayugi-blocklist
 
 Repository ini berisi daftar blocklist yang dapat digunakan pada AdGuardHome untuk memblokir iklan, pelacak, dan konten berbahaya lainnya.
 
