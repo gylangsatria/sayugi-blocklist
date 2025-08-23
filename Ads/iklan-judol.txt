@@ -1,0 +1,12 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Iklan Judi Online
+# Total number of network filters: 7
+# ------------------------------------[FILTERS]-------------------------------------
+
+0.0.0.0 penta24.rest
+0.0.0.0 menang21.store
+0.0.0.0 kaiko6.icu
+0.0.0.0 jpterus6.site
+0.0.0.0 rusia7.pics
+0.0.0.0 ratui23.site
+0.0.0.0 dewan4dvvip.com
