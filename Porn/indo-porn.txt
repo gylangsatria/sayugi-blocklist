@@ -1,6 +1,6 @@
 # ------------------------------------[UPDATE]--------------------------------------
 # Title: Indonesian Porn Site List
-# Total number of network filters: 26
+# Total number of network filters: 71
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 kingbokep.tv
 0.0.0.0 bokeptoket.com
@@ -28,3 +28,49 @@
 0.0.0.0 www.njav.com
 0.0.0.0 javsek.net
 0.0.0.0 185.63.253.200
+0.0.0.0 javhey.com
+0.0.0.0 indojavstream.com
+0.0.0.0 66.29.129.161
+0.0.0.0 javrider.id
+0.0.0.0 avtub.so
+0.0.0.0 xsuperjav.com
+0.0.0.0 javtsunami.com
+0.0.0.0 pasarbokep.id
+0.0.0.0 xjepang.com
+0.0.0.0 gojav-hd.com
+0.0.0.0 javstory1.com
+0.0.0.0 missav123.com
+0.0.0.0 avtub.cx
+0.0.0.0 sotwe.com
+0.0.0.0 bokephub.com
+0.0.0.0 missav.ws
+0.0.0.0 ukdevilz.com
+0.0.0.0 javhey.com
+0.0.0.0 javmod.com
+0.0.0.0 4play.to
+0.0.0.0 xjepang.com
+0.0.0.0 ruanglendir.com
+0.0.0.0 thepornlinks.com
+0.0.0.0 xxbrits.com
+0.0.0.0 indojavstream.com
+0.0.0.0 javstory.top
+0.0.0.0 xsuperjav.com
+0.0.0.0 nekopoi.care
+0.0.0.0 www.24xxx.porn
+0.0.0.0 bokepsin.cv
+0.0.0.0 njavtv.com
+0.0.0.0 javsubindo.life
+0.0.0.0 avdesu.cc
+0.0.0.0 javindo.bar
+0.0.0.0 javsubidn.tv
+0.0.0.0 rock.porn
+0.0.0.0 indojavstream.fit
+0.0.0.0 javsubindo.cc
+0.0.0.0 ruangjav.com
+0.0.0.0 rumahjav.com
+0.0.0.0 avtub.cx
+0.0.0.0 javindo.bar
+0.0.0.0 javemu.com
+0.0.0.0 javin.site
+0.0.0.0 javsubid.tv
+
