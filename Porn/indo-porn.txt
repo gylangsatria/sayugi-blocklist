@@ -74,5 +74,15 @@
 0.0.0.0 javin.site
 0.0.0.0 javsubid.tv
 0.0.0.0 podjav.com
-||podjav.com^
-
+0.0.0.0 jepangmantap.com
+0.0.0.0 mdtaiwan.com
+0.0.0.0 mbokepindo.com
+0.0.0.0 rutube.ru
+0.0.0.0 rumahperjaka.site
+0.0.0.0 javsubtitled.com
+0.0.0.0 18subindo.com
+0.0.0.0 mindfulmando.com
+0.0.0.0 rumahparaperjaka.fun
+0.0.0.0 javsubid.bar
+0.0.0.0 javsubid.best
+0.0.0.0 javsubindo.cv
