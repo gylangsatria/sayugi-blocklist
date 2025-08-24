@@ -1,6 +1,6 @@
 # ------------------------------------[UPDATE]--------------------------------------
 # Title: Iklan Judi Online
-# Total number of network filters: 7
+# Total number of network filters: 25
 # ------------------------------------[FILTERS]-------------------------------------
 
 0.0.0.0 penta24.rest
@@ -10,3 +10,21 @@
 0.0.0.0 rusia7.pics
 0.0.0.0 ratui23.site
 0.0.0.0 dewan4dvvip.com
+0.0.0.0 popgaple.com
+0.0.0.0 popdomino.com
+0.0.0.0 mvpdomino.com
+0.0.0.0 poppoker.com
+0.0.0.0 ludodream.com
+0.0.0.0 popbig2.com
+0.0.0.0 pokerpro.id
+0.0.0.0 texasboyaa.com
+0.0.0.0 topfundomino.com
+0.0.0.0 dominoqq99.com
+0.0.0.0 boyaaqqkiu.com
+0.0.0.0 dominogapleboyaa.com
+0.0.0.0 capsa.com
+0.0.0.0 higgsslot.com
+0.0.0.0 stevedominoqq.com
+0.0.0.0 pokerslotsgame.com
+0.0.0.0 letsdominogapleqq.com
+0.0.0.0 pokergameonline.com
